@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d3da4d0-3df9-4142-9ba4-7ce7fd9824c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic-tac-toe/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic-tac-toe/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic-tac-toe/play.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic-tac-toe/register-players.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic-tac-toe/result.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic-tac-toe/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic-tac-toe/templates/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic-tac-toe/templates/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic-tac/tic-tac-toe/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/tic-tac/tic-tac-toe/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tic-tac/tic-tac-toe/play.php" beforeDir="false" afterPath="$PROJECT_DIR$/tic-tac/tic-tac-toe/play.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tic-tac" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectId" id="2UxiARtiTL2vZmWjldB7E9dTguX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d3da4d0-3df9-4142-9ba4-7ce7fd9824c9" name="Changes" comment="" />
+      <created>1693887489545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693887489545</updated>
+      <workItem from="1693887490809" duration="231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
